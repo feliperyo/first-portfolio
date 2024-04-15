@@ -70,6 +70,13 @@ const projects = [
         href: 'https://github.com/feliperyo/starbucks',
     },
     {
+        name: 'Previsão do Tempo',
+        detail: 'HTML, CSS, JavaScript, Consumo de API e Responsividade.',
+        all: true, complete: true, landing: false, game: true,
+        src: './assets/mockups/tempo-img.jpg',
+        href: 'https://github.com/feliperyo/weather-forecast',
+    },
+    {
         name: 'Jogo de Adivinhação',
         detail: 'HTML, CSS, JavaScript e Responsividade.',
         all: true, complete: true, landing: false, game: true,
